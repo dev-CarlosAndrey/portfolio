@@ -12,24 +12,24 @@
           "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/js.png?token=GHSAT0AAAAAACVJ2NLMIMTNTHTCKUJJRYZMZVCUB4Q"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-        },
-        {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-        },
-        {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/react.png?token=GHSAT0AAAAAACVJ2NLMSS4YXN53FYRZBZ7CZVDRRGQ"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/html.png?token=GHSAT0AAAAAACVJ2NLNQQOF5HOZO2HHJECCZVDRSSA"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/css.png?token=GHSAT0AAAAAACVJ2NLMX4YAHNK5M2327FZQZVDRTDA"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/python.png?token=GHSAT0AAAAAACVJ2NLMQWBFLTKF222ILBU6ZVDRUVA"
+        },
+        {
+          "name": "NodeJS",
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/nodejs.png?token=GHSAT0AAAAAACVJ2NLNQCYZ637FHKIBNDYOZVDRWHA"
         }
       ],
       "softSkills": [
@@ -43,36 +43,25 @@
     "languages": [
       "Português BR",
       "Inglês (intermediário)",
-      "Espanhol (intermediário)",
-      "Italiano (iniciante)"
+      "Espanhol (intermediário)"
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Projeto POKEDEX desenvolvido em parceria com o curso de JS da DIO",
+        "url": "https://github.com/dev-CarlosAndrey/Pokedex.git",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Pequeno projeto de buscador de CEP utilizando React - JS para consumir uma api",
+        "url": "https://github.com/dev-CarlosAndrey/buscador.git",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Técnico em Informática - Escola Sonia Burgos",
+        "period": "2023 - até o momento",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações no âmbito escolar."
       }
     ]
   }
