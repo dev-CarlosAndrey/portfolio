@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/js.png"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/react.png"
         },
         {
           "name": "Html",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/html.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/css.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/css.png"
         },
         {
           "name": "Python",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/python.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/python.png"
         },
         {
           "name": "NodeJS",
-          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/nodejs.png"
         }
       ],
       "softSkills": [
