@@ -9,7 +9,7 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/js.png?token=GHSAT0AAAAAACVJ2NLMRGQGXAGPSGJCW3PCZVDSHNA"
+          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/js.png"
         },
         {
           "name": "React",
@@ -29,7 +29,7 @@
         },
         {
           "name": "NodeJS",
-          "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/nodejs.png?token=GHSAT0AAAAAACVJ2NLNQCYZ637FHKIBNDYOZVDRWHA"
+          "logo": "https://raw.githubusercontent.com/RenanJPaula/js-developer-portfolio/main/data/imgs/nodejs.png"
         }
       ],
       "softSkills": [
