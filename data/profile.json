@@ -30,6 +30,10 @@
         {
           "name": "NodeJS",
           "logo": "https://raw.githubusercontent.com/dev-CarlosAndrey/portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "C#",
+          "logo": "https://github.com/dev-CarlosAndrey/portfolio/blob/main/data/imgs/csharp.png"
         }
       ],
       "softSkills": [
